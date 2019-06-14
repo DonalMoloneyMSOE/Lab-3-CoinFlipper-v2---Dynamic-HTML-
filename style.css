@@ -1,0 +1,60 @@
+/*
+ * Donal Moloney
+ * Lab2
+ * SE 2840
+ * Dr.Hornick
+ * 12/14/17
+ */
+#input {
+    padding: 20px;
+    width: auto;
+    resize: both;
+    overflow: auto;
+}
+.headerTitle{
+    height: 30px;
+    width: 60px;
+    font: 14px arial, sans-serif;
+    text-align: center;
+}
+#box1, #box2 {
+    height: 30px;
+    width: 60px;
+    border-style: dotted;
+    font-size: 115%;
+    text-align: center;
+    width: 15%;
+    color: #000003;
+}
+.t2 {
+    border-style: dotted;
+    font-size: 115%;
+    text-align: center;
+    width: 15%;
+    color: #000003;
+}
+.progress{
+    width: 100%;
+    margin: auto;
+}
+.progressBar{
+    width: 90%;
+    margin: auto;
+}
+.frequencyOutPut{
+    width: 15%;
+    margin: auto;
+}
+.headsOutPut{
+    width:15%;
+    margin: auto;
+}
+#totalTime{
+    text-align: center;
+    font-size: 100%;
+    background-color: #23d689;
+    width: 15%;
+}
+body{
+    background-color: springgreen;
+}
